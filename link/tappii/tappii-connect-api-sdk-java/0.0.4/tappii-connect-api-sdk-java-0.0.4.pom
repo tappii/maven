@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>link.tappii</groupId>
+  <artifactId>tappii-connect-api-sdk-java</artifactId>
+  <version>0.0.4</version>
+  <name>Tappii Connect API SDK for Java / Kotlin</name>
+  <description>Tappii Connect API SDK for Java / Kotlin</description>
+  <url>https://github.com/tappii/tappii-connect-api-sdk-java</url>
+  <licenses>
+    <license>
+      <name>Tappii License Ver1.0</name>
+      <url/>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>Tappii Project</id>
+      <name>Tappii Project</name>
+      <email>tappii.link@gmail.com</email>
+    </developer>
+  </developers>
+</project>
